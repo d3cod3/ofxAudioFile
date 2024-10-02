@@ -5,6 +5,9 @@
 #include <iostream>
 #include <string>
 
+#include <stdint.h>
+#include <cstdint>
+
 class ofxAudioFile {
 
 public:
